@@ -11,6 +11,9 @@ using MusicStore.Models;
 
 namespace MusicStore
 {
+    /// <summary>
+    /// Karan
+    /// </summary>
     public class Startup
     {
         private readonly Platform _platform;
